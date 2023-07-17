@@ -1,5 +1,5 @@
 # Satoru Iwata Tribute
-> FreeCodeCamp Webpage Project
+> FreeCodeCamp Webpage Project structure.
 > 
 > Developed using HTML and CSS
 
